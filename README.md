@@ -1,6 +1,6 @@
 # Nebula-SChinese-Language-Pack
-Translation for NoS and Chinese ONLY<br>This pack is Krolf,the chef editor,create and Khcell rework almost all.
+This pack is created by Krolf,the chef editor,and reworked by Khcell almost all .(Maybe?)
 # For translation
-This pack includes:<br>-Base content<br>-Archievements<br>-Color
+This pack includes:<br>-Basic contents<br>-Archievements<br>-Color
 # Contact us
-Sorry,not yet.But it will have in three months.
+If you have any questions,you can ask at <b>issues</b><br>Or my(Khcell)<b> E-mail</b>:Khell.hoshino@outlook.com
