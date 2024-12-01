@@ -1,7 +1,7 @@
 # Nebula-SChinese-Language-Pack
 This pack is created by Krolf,the chef editor.<br>It'll update in 24 hours when the Mod NoS updates.
 ## The Mod : Nebula 
-This is the Mod <a href="https://github.com/Dolly1016/Nebula">Nebula On The Ship</a>
+This is the Mod [Nebula On The Ship](https://github.com/Dolly1016/Nebula)
 ## Translation
 This pack includes:<br> -Basic contents<br> -Archievement<br> -Color
 ## Contact us
