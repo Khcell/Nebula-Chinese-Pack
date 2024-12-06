@@ -1,6 +1,5 @@
 # About this Pack
 <img align="right" src="Resources/Image.png" width="46%"/>
-
 <p align="left">
 
 > ## Introduction
@@ -15,7 +14,6 @@
 </p>
 
 ---
-
 ## The Mod : Nebula 
 This is the Mod [Nebula On The Ship](https://github.com/Dolly1016/Nebula)
 ## Translation
