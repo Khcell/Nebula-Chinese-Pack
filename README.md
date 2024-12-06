@@ -1,10 +1,11 @@
 # About this Pack
-<img align="right" src="Resources/Image.png" width="46%"/>
+<img align="right" src="Resources/Image.png" width="48%"/>
 <p align="left">
 
-> ## Introduction
+> ### Introduction
 >
 > This pack is created by Krolf, the chef editor. This Pack is represented for concise and readable. It'll update in 24 hours when the Mod NoS updates.
+<br>
 <br>
 <br>
 <br>
