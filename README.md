@@ -1,5 +1,5 @@
 # About this Pack
-<img align="right" alt="Cover" src="Resources/Image.png" width="50%" />
+<img align="right" src="Resources/Image.png" width="50%" height="350"/>
 <p align="left">
 
 > ### Introduction
