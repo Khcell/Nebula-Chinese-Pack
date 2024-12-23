@@ -4,10 +4,7 @@
 
 > ### Introduction
 >
-> The Pack is created by Krolf, the chief editor. This Pack is represented for concise and readable. It'll update in 24 hours when the Mod NoS updates.<br><ins>The Pack applicables old Nebula version</ins>, so you don't need to change the Pack version with the Mod version. 
-<br>
-<br>
-<br>
+> The Pack is created by Krolf, the chief editor. This Pack is represented for concise and readable. It'll update in 24 hours when the Mod NoS updates.<br><ins>The Pack applicables old Nebula version</ins>, so you don't need to change the Pack version with the Mod version.
 <br>
 <br>
 <br>
