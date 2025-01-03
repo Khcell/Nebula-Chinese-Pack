@@ -4,7 +4,7 @@
 
 > ### Introduction
 >
-> The Pack is created by Krolf, the chief editor. This Pack is represented for concise and readable. It'll update in 24 hours when the Mod NoS updates.<br><ins>The Pack applicables old Nebula version</ins>, so you don't need to change the Pack version with the Mod version.
+> The Pack is created by Krolf, the chief editor. This Pack is represented for concise and readable.<br><ins>The Pack applicables old Nebula version</ins>, so you don't need to change the Pack version with the Mod version.
 <br>
 </p>
 
@@ -19,5 +19,7 @@ The main part for the Pack, used bilingual Translation.<br>You can be free to ch
 Assist in the Basic-contents. Has a few personal ideas.<br>You can be free to change the contents.
 ### Color
 More colors, also need more colors' discriptions.<br>I don't recommended you to change the contents unless you don't use color to named other players.
+## Installation
+Sorry, not yet:(
 ## Contact us
 If you have any questions, you can ask at <b>issues</b><br>Or my(Khcell)<b> E-mail</b>:Khell.hoshino@outlook.com
